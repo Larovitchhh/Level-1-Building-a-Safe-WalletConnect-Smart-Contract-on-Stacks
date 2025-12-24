@@ -1,0 +1,15 @@
+
+
+This Level 1 contract is ideal for builder challenges because it:
+
+Generates real on-chain transactions
+
+Is WalletConnect compatible
+
+Encourages repeated interactions
+
+Is easy to integrate in a frontend
+
+Can be deployed on testnet or mainnet
+
+It is intentionally simple — later levels will add complexity.

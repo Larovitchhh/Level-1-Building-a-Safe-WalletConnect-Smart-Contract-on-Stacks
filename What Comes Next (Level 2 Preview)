@@ -1,0 +1,15 @@
+
+
+In Level 2, we will introduce:
+
+Events (print) for analytics
+
+Per-sender tracking
+
+Authorization rules
+
+Better composability
+
+More advanced read-only views
+
+Each level will build on top of the previous one, never breaking safety.

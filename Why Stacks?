@@ -1,0 +1,17 @@
+
+
+Stacks is a Bitcoin Layer-2 that enables smart contracts and decentralized applications without modifying Bitcoin itself.
+
+Key advantages:
+
+Bitcoin-final settlement
+
+Determininistic smart contracts
+
+No reentrancy attacks
+
+Predictable execution costs
+
+Strong developer tooling
+
+Stacks inherits Bitcoin’s security while enabling expressive logic via smart contracts.

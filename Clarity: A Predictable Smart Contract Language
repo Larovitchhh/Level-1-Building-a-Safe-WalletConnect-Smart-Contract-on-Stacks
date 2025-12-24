@@ -1,0 +1,17 @@
+ 
+
+Stacks smart contracts are written in Clarity, a decidable, interpreted language.
+
+Clarity’s core properties:
+
+No compiler (what you read is what executes)
+
+No unbounded loops
+
+Explicit error handling
+
+Static type checking
+
+Safer by design than EVM languages
+
+These properties make Clarity ideal for high-assurance contracts.

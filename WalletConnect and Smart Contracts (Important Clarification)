@@ -1,0 +1,15 @@
+
+
+WalletConnect is not part of the smart contract.
+
+Instead:
+
+WalletConnect lives in the frontend
+
+It signs and broadcasts contract calls
+
+The contract itself remains pure Clarity
+
+This separation is critical:
+
+Smart contracts define rules. Wallets authorize actions.

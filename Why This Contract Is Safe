@@ -1,0 +1,21 @@
+
+
+This contract avoids common Clarity pitfalls:
+
+❌ No match with mismatched return types
+
+❌ No unchecked transfers
+
+❌ No implicit failures
+
+Instead, it uses:
+
+asserts! for validation
+
+Explicit error codes
+
+Deterministic execution paths
+
+Clear separation of state updates
+
+Failures occur before any STX is transferred.

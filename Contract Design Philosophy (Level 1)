@@ -1,0 +1,21 @@
+
+
+For Level 1, we follow strict principles:
+
+Minimal surface area
+
+No advanced patterns
+
+Explicit error codes
+
+No ambiguous return types
+
+No hidden state changes
+
+The result is a contract that is:
+
+Safe to deploy
+
+Cheap to interact with
+
+Ideal for learning and challenges
